@@ -36,3 +36,6 @@ The VBA script effectively analyzes stock data, providing valuable insights into
 ## Conclusion:
 
 Through this VBA stock analysis project, users can efficiently analyze and visualize stock performance across multiple years.
+
+### Resources
+Past class activities, study groups, BCS and Tutoring. 
